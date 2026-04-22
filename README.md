@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👨‍💻 I am a Senior Software Engineer specializing in the design and development of large-scale systems and AI-driven data pipelines—ensuring seamless data ingestion, processing, and refinement for advanced analytics and machine learning. With over 8 years of experience, I focus on distributed systems and robust API design, primarily using Go. Based in Skopje, Macedonia, I thrive in collaborative, dynamic environments and am always eager to tackle new challenges. If you're looking for a dedicated and experienced Senior Software Engineer, feel free to reach out—let's connect and explore potential opportunities!
+👨‍💻 I am a Senior Software Engineer specializing in the design and development of large-scale systems and lately AI-driven data pipelines, ensuring seamless data ingestion, processing, and refinement for advanced analytics and machine learning. With over 9 years of experience, my expertise lies in creating scalable, user-facing applications and robust APIs, primarily using Go.
 
-🌱 Beyond my professional endeavors, I am an avid open-source contributor and love exploring the latest tools and technologies. I continually work on personal projects to expand my skill set and indulge in competitive gaming, fueling my competitive spirit and enhancing my problem-solving abilities.
+My technical skills are deeply rooted in distributed systems and API architecture, and I am an enthusiastic participant in the open-source community, continuously exploring and contributing to cutting-edge technologies. In addition to my professional endeavors, I am adept at leading projects that require integrating complex systems to enhance functionality and performance.
 
-🔭 I am proud to be a Top Rated Plus freelancer on Upwork with over 1500 hours clocked in 2021.
+I thrive in collaborative and dynamic environments and am always eager to tackle new challenges in backend engineering. Based in Macedonia, I am keen on opportunities to innovate and drive success in technology projects on a global scale. Let’s connect and explore how we can create impactful solutions together!
 
 👨‍💻 In recent years, most of my projects have been on GitLab:  
 - [GitLab Profile1](https://gitlab.com/djale1k)  
